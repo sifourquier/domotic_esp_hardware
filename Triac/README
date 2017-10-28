@@ -1,0 +1,8 @@
+Electronic for controling 230V (triac) and mesuring consumption
+Use for 230V (light control)
+Use for pilot wire radiator
+If add an external power supply and mosN you can use for low voltage light (for exemple 36V led)
+by adding external quadratur sensor, powwer suply and Hbridge(DRV8871) you can control a motor (for exemple awning)
+
+fixme the VTX-214-001-103 need be soldering befor esp8266
+if creat a new pcb try to change VTX-214-001-103 by VTX-214-001-303 (for reduct consumption)

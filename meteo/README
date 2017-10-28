@@ -1,0 +1,7 @@
+Electronic for meteo sensors (Temperature Humidity Pressure)
+Power by 1 or 2 battery 1.2V/1.5V or 5V (mini USB)
+1 batterie R14 can spupply for more of 6 months if configured on static ip
+ 
+FIXME
+If use with only 1battery the stepup are to low current i have fix it by using 0x220uF on the power but work only if the connection time are low (use IP fix do not use dhcp)
+If you use a rechargabel battery you can chage with connecting to usb but the heating of charge distorts the measure
