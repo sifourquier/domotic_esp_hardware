@@ -1,0 +1,40 @@
+
+| C1         10uF 16v        1206    
+| C2         330uF       MCESL6V3337M6.3X7.7
+C3 C6 C9 C10 100nF       0603           
+| C7         22nF?       0603   
+| C8 C4      47nF        CGA5L1X7T2J473M160AE
+| D1         LED_blue    0603
+| D2         BAS 21-03W 
+| F1         FUSE 1A     160016/0.8A
+| F2         FUSE 6A     0751.0110
+| IC1        ACS711KLCTR-12AB-T  SO-8    
+| L1         MCAP115018077Aou 7447075
+| Q1         BC847B      
+| R1 | R2    220k 330k 470k 1206
+| R3         MCSR431K07DS~                   ; ~           ; ~           
+| R4         22k         0603        
+| R5         470E        0603        
+| R6  R9 R17 R19     1k  0603        
+| R7         10K         0603        
+| R8         0.1         0603        
+| R10        0?          0603        
+| R11 R21       10k      0603        
+| R12        0?          0603        
+| R13        0?          0603        
+| R14        4.7k        0603        
+| R15        330         0603        
+| R16        330         1206
+| R18        470         1206
+| R20        22k         0603        
+| SW1        KSR231G LFS       
+| SW2        KSR231G LFS      
+| T1         RAC01 3.3V         
+| U1         MB8S        
+| U2         HTS221        
+| U3         BMP280 http://www.mouser.com/ProductDetail/Bosch-Sensortec/BMP280/?qs=sGAEpiMZZMtIHXa%252bTo%2fr2eGxaEtuZJz3i3U5QWpV0wc%3d       
+| U4         4N33SM          
+| U5         ESP8266-DEV-OLIMEX       
+| U6         MOC3023SM          
+| U7         BTB08-600SRG         
+| U8         AT42QT1010        

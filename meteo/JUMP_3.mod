@@ -1,0 +1,39 @@
+PCBNEW-LibModule-V1  dim. 02 août 2015 00:28:13 CEST
+# encoding utf-8
+Units mm
+$INDEX
+JUMP-3
+$EndINDEX
+$MODULE JUMP-3
+Po 0 0 0 15 55BD47B5 00000000 ~~
+Li JUMP-3
+Cd jumper 3 pins
+Kw JUMP-3
+Sc 0
+AR /55BCDA62
+Op 0 0 0
+T0 0 -2.54 1.7907 1.07696 0 0.3048 N V 21 N "K1"
+T1 0 -2.54 1.524 1.016 0 0.254 N I 21 N "JUMP-3"
+$PAD
+Sh "1" R 1.5 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "GND"
+Po -1.8 0
+$EndPAD
+$PAD
+Sh "2" R 1.5 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 3 "N-0000013"
+Po 0 0
+$EndPAD
+$PAD
+Sh "3" R 1.5 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "N-000001"
+Po 1.8 0
+$EndPAD
+$EndMODULE JUMP-3
+$EndLIBRARY

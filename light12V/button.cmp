@@ -1,0 +1,59 @@
+Cmp-Mod V01 Created by PcbNew   date = sam. 13 févr. 2016 01:45:23 CET
+
+BeginCmp
+TimeStamp = 56B788B4
+Path = /56B78744
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B788C1
+Path = /56B7879E
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B788D0
+Path = /56B78642
+Reference = P2;
+ValeurCmp = CONN_6;
+IdModule  = SIL-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B788DA
+Path = /56B785E2
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B7A31A
+Path = /56B786DB
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B7905B
+Path = /56B785D3
+Reference = U1;
+ValeurCmp = ESP-02V010;
+IdModule  = ESP-02;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B7A6AE
+Path = 
+Reference = PIN_ARRAY_1;
+ValeurCmp = Val**;
+IdModule  = PIN_ARRAY_1;
+EndCmp
+
+EndListe

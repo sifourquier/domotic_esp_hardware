@@ -1,0 +1,70 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 22.09.2015 18:17:09
+#Cmp ( ordre = Référence )
+| C1         22uF        
+| C2         22uF        
+| C3         100nF       
+| C4         100nF       
+| C5         22uF        
+| C6         100nF       
+| C7         C           
+| D1         SD103       
+| D2         1n4148      
+| D3         SD103       
+| J1         USB-MINI-B-SMD
+| K1         CONN_3      
+| L1         3.3uH       
+| P1         Solar       
+| P2         CONN_6      
+| P3         CONN_7      
+| P8         NIMH 1.2V   
+| P9         DRILL       
+| P10        DRILL       
+| P12        DRILL       
+| R1         10          
+| R2         1k          
+| R3         2.2M        
+| R4         2.2M        
+| SW1        RST         
+| SW2        BOOT        
+| SW3        PUSH        
+| U1         TPS61291    
+| U2         BME         
+| U3         ESP-07V2    
+| U4         LP2985_D3.3 
+#End Cmp
+
+#Cmp ( ordre = Valeur )
+| 100nF        C3        
+| 100nF        C4        
+| 100nF        C6        
+| 22uF         C1        
+| 22uF         C2        
+| 22uF         C5        
+| C            C7        
+| 1n4148       D2        
+| SD103        D1        
+| SD103        D3        
+| USB-MINI-B-SMD J1        
+| CONN_3       K1        
+| 3.3uH        L1        
+| Solar        P1        
+| CONN_6       P2        
+| CONN_7       P3        
+| NIMH 1.2V    P8        
+| DRILL        P9        
+| DRILL        P10       
+| DRILL        P12       
+| 10           R1        
+| 1k           R2        
+| 2.2M         R3        
+| 2.2M         R4        
+| RST          SW1       
+| BOOT         SW2       
+| PUSH         SW3       
+| ESP-07V2     U3        
+| LP2985_D3.3  U4        
+| TPS61291     U1        
+| BME          U2        
+#End Cmp
+
+#End List

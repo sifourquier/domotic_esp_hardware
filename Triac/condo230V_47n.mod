@@ -1,0 +1,42 @@
+PCBNEW-LibModule-V1  lun. 15 juin 2015 16:13:30 CEST
+# encoding utf-8
+Units mm
+$INDEX
+C230v
+$EndINDEX
+$MODULE C230v
+Po 0 0 0 15 557EDD20 00000000 ~~
+Li C230v
+Cd Condensateur
+Kw C
+Sc 0
+AR /55264F7E
+Op 0 0 0
+T0 0 0 1.016 1.016 0 0.2032 N V 21 N "C8"
+T1 0 0 1.016 1.016 0 0.2032 N I 21 N "47nF"
+DS -8 -3 8 -3 0.15 21
+DS 8 -3 8 3 0.15 21
+DS 8 3 -8 3 0.15 21
+DS -8 3 -8 -3 0.15 21
+$PAD
+Sh "1" C 3 3 0 0 0
+Dr 0.8128 0 0
+At STD N 00E0FFFF
+Ne 2 "/ACN"
+Po -6.25 0
+$EndPAD
+$PAD
+Sh "2" C 3 3 0 0 0
+Dr 0.8128 0 0
+At STD N 00E0FFFF
+Ne 1 "/230_4"
+Po 6.23 0
+$EndPAD
+$SHAPE3D
+Na "discret/capa_2pas_5x5mm.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE C230v
+$EndLIBRARY

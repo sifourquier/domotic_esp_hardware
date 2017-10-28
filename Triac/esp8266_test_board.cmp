@@ -1,0 +1,290 @@
+Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = mar. 03 nov. 2015 02:09:28 CET
+
+BeginCmp
+TimeStamp = /55230F9C;
+Reference = C1;
+ValeurCmp = 100nF 10v;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5522F7CA;
+Reference = C2;
+ValeurCmp = 100uF;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /5522F2A6;
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55245976;
+Reference = C4;
+ValeurCmp = 47nF;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5583EDCD;
+Reference = C5;
+ValeurCmp = 100uF;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /55868D72;
+Reference = C6;
+ValeurCmp = 100nF;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /557DDD04;
+Reference = C7;
+ValeurCmp = 10uF;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55264F7E;
+Reference = C8;
+ValeurCmp = 47nF;
+IdModule  = C230v;
+EndCmp
+
+BeginCmp
+TimeStamp = /552668CB;
+Reference = C9;
+ValeurCmp = 100nF;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /552313B1;
+Reference = D2;
+ValeurCmp = BAS 21-03W E6327;
+IdModule  = SOD323-REFLOW;
+EndCmp
+
+BeginCmp
+TimeStamp = /557CCB90;
+Reference = D3;
+ValeurCmp = RR255M-400TR;
+IdModule  = SOD123;
+EndCmp
+
+BeginCmp
+TimeStamp = /552302E5;
+Reference = F1;
+ValeurCmp = FUSE 1A;
+IdModule  = FSUPCMS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5525C975;
+Reference = F2;
+ValeurCmp = FUSE 6A;
+IdModule  = FUSE7-20_LITTELFUSE_100_056;
+EndCmp
+
+BeginCmp
+TimeStamp = /552E5CEA;
+Reference = IC1;
+ValeurCmp = TLI4970-D050T4;
+IdModule  = PG-TISION-8-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /557F0273;
+Reference = IC2;
+ValeurCmp = TCLD1000;
+IdModule  = DIP-4_long_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /5525C968;
+Reference = L1;
+ValeurCmp = MCAP115018077A;
+IdModule  = self;
+EndCmp
+
+BeginCmp
+TimeStamp = /5523010E;
+Reference = P1;
+ValeurCmp = IN;
+IdModule  = bornier2_230v;
+EndCmp
+
+BeginCmp
+TimeStamp = /5638066D;
+Reference = P2;
+ValeurCmp = CONN_6;
+IdModule  = con-amp-micromatch-MMT-SMD-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /55264EAC;
+Reference = P3;
+ValeurCmp = OUT;
+IdModule  = bornier2_230v;
+EndCmp
+
+BeginCmp
+TimeStamp = /557EFC5A;
+Reference = P4;
+ValeurCmp = EXT1;
+IdModule  = con-amp-micromatch-MMT-SMD-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /557EFBCE;
+Reference = P9;
+ValeurCmp = Touch;
+IdModule  = con-amp-micromatch-MMT-SMD-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /5527E778;
+Reference = Q1;
+ValeurCmp = BC847B;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /55854406;
+Reference = Q2;
+ValeurCmp = BSS84;
+IdModule  = SOT23GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /55230CC6;
+Reference = R1;
+ValeurCmp = 2.2M;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /55230CDF;
+Reference = R2;
+ValeurCmp = 2.2M;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /552304DB;
+Reference = R3;
+ValeurCmp = MCSR431K07DS;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55230EF3;
+Reference = R4;
+ValeurCmp = 100k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55868D40;
+Reference = R5;
+ValeurCmp = R=5*NTC;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55230F81;
+Reference = R6;
+ValeurCmp = 0;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55868D63;
+Reference = R7;
+ValeurCmp = NTC;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B50479;
+Reference = R8;
+ValeurCmp = 22k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /557D95E3;
+Reference = R11;
+ValeurCmp = 220;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /552458A9;
+Reference = R16;
+ValeurCmp = 330;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /55245957;
+Reference = R18;
+ValeurCmp = 470;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /552300FF;
+Reference = T1;
+ValeurCmp = RAC01 3.3V;
+IdModule  = VTX-214-001-103;
+EndCmp
+
+BeginCmp
+TimeStamp = /55894817;
+Reference = Trou1;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /55894826;
+Reference = Trou2;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /55894835;
+Reference = Trou3;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /557DD3DB;
+Reference = U3;
+ValeurCmp = ESP-07V2;
+IdModule  = ESP-07v2_small;
+EndCmp
+
+BeginCmp
+TimeStamp = /55231F91;
+Reference = U6;
+ValeurCmp = MOC3023SM;
+IdModule  = DIP-6__300_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /55245EB3;
+Reference = U7;
+ValeurCmp = BTA312-600B;
+IdModule  = TO220_VERT_230V_rad;
+EndCmp
+
+EndListe

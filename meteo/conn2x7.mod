@@ -1,0 +1,127 @@
+PCBNEW-LibModule-V1  dim. 02 août 2015 00:38:39 CEST
+# encoding utf-8
+Units mm
+$INDEX
+pin_array_7x2
+$EndINDEX
+$MODULE pin_array_7x2
+Po 0 0 0 15 55BD4A17 00000000 ~~
+Li pin_array_7x2
+Cd Double rangee de contacts
+Kw CONN
+Sc 0
+AR /55BCD8CF
+Op 0 0 0
+T0 0 -3.302 1.016 1.016 0 0.2032 N V 21 N "P2"
+T1 0 3.302 1.016 1.016 0 0.2032 N V 21 N "Embedded Artists EM027BS013"
+DS -11 -4 9 -4 0.15 21
+DS 9 -4 9 4 0.15 21
+DS 9 4 -12 4 0.15 21
+DS -12 4 -12 -4 0.15 21
+DS -12 -4 -11 -4 0.15 21
+$PAD
+Sh "1" R 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 12 "GND"
+Po -8.89 1.27
+$EndPAD
+$PAD
+Sh "2" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 1 "+2.5V"
+Po -8.89 -1.27
+$EndPAD
+$PAD
+Sh "3" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 10 "/SCLK"
+Po -6.35 1.27
+$EndPAD
+$PAD
+Sh "4" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 8 "/MOSI"
+Po -6.35 -1.27
+$EndPAD
+$PAD
+Sh "5" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 7 "/MISO"
+Po -3.81 1.27
+$EndPAD
+$PAD
+Sh "6" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 4 "/EPD_CS"
+Po -3.81 -1.27
+$EndPAD
+$PAD
+Sh "7" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 3 "/EPD_BUSY"
+Po -1.27 1.27
+$EndPAD
+$PAD
+Sh "8" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 2 "/EPD_BORDER"
+Po -1.27 -1.27
+$EndPAD
+$PAD
+Sh "9" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 9 "/SCL"
+Po 1.27 1.27
+$EndPAD
+$PAD
+Sh "10" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 11 "/SDA"
+Po 1.27 -1.27
+$EndPAD
+$PAD
+Sh "11" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 1.27
+$EndPAD
+$PAD
+Sh "12" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -1.27
+$EndPAD
+$PAD
+Sh "13" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 6 "/EPD_ON"
+Po 6.35 1.27
+$EndPAD
+$PAD
+Sh "14" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 5 "/EPD_DISCHARGE"
+Po 6.35 -1.27
+$EndPAD
+$SHAPE3D
+Na "pin_array/pins_array_8x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE pin_array_7x2
+$EndLIBRARY

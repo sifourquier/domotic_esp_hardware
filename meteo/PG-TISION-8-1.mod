@@ -1,0 +1,76 @@
+PCBNEW-LibModule-V1  lun. 15 juin 2015 15:37:39 CEST
+# encoding utf-8
+Units mm
+$INDEX
+PG-TISION-8-1
+$EndINDEX
+$MODULE PG-TISION-8-1
+Po 0 0 0 15 557ED51A 00000000 ~~
+Li PG-TISION-8-1
+Sc 0
+AR 
+Op 0 0 0
+T0 0.5 1.5 1 1 0 0.15 N V 21 N "PG-TISION-8-1"
+T1 0 0 1 1 0 0.15 N V 21 N "VAL**"
+DS -3.5 -3.5 -3.5 3.5 0.15 21
+DS -3.5 3.5 3.5 3.5 0.15 21
+DS 3.5 3.5 3.5 -3.5 0.15 21
+DS 3.5 -3.5 -3.5 -3.5 0.15 21
+$PAD
+Sh "1" R 2.4 3.48 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.78 -2.32
+$EndPAD
+$PAD
+Sh "2" R 2.4 3.48 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.78 -2.32
+$EndPAD
+$PAD
+Sh "3" R 1.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.5 3.35
+$EndPAD
+$PAD
+Sh "4" R 1.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.5 3.35
+$EndPAD
+$PAD
+Sh "5" R 0.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4 3.35
+$EndPAD
+$PAD
+Sh "6" R 0.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.2 3.35
+$EndPAD
+$PAD
+Sh "7" R 0.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4 3.35
+$EndPAD
+$PAD
+Sh "8" R 0.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.2 3.35
+$EndPAD
+$EndMODULE PG-TISION-8-1
+$EndLIBRARY

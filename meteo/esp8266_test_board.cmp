@@ -1,0 +1,227 @@
+Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = ven. 28 août 2015 14:38:19 CEST
+
+BeginCmp
+TimeStamp = /55BCACC4;
+Reference = C1;
+ValeurCmp = 22uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BCAB60;
+Reference = C2;
+ValeurCmp = 22uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /552668DA;
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BCAB38;
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC7EF8;
+Reference = C5;
+ValeurCmp = 22uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BD61B0;
+Reference = C6;
+ValeurCmp = 100nF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC5A5F;
+Reference = C7;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CF34DE;
+Reference = D1;
+ValeurCmp = SD103AW;
+IdModule  = SOD123_Corige;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC7556;
+Reference = D2;
+ValeurCmp = 1n4148 sod123;
+IdModule  = SOD123_Corige;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC67AD;
+Reference = D3;
+ValeurCmp = SD103AW;
+IdModule  = SOD123_Corige;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC7704;
+Reference = J1;
+ValeurCmp = USB-MINI-B-SMD;
+IdModule  = USB_MINI_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BCDA62;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = JUMP-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BCAB7B;
+Reference = L1;
+ValeurCmp = 3.3uH CVH252009-3R3M;
+IdModule  = ipc-7351-inductor-INDC2520X220N;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BD2AB0;
+Reference = P1;
+ValeurCmp = Solar >=1.8V;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DE1F7C;
+Reference = P2;
+ValeurCmp = CONN_6;
+IdModule  = SIL-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DE1B19;
+Reference = P3;
+ValeurCmp = CONN_7;
+IdModule  = SIL-7;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BD41D4;
+Reference = P8;
+ValeurCmp = NIMH 1.2V;
+IdModule  = AA;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BD51DD;
+Reference = P9;
+ValeurCmp = DRILL;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BD51EC;
+Reference = P10;
+ValeurCmp = DRILL;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BD51FB;
+Reference = P11;
+ValeurCmp = DRILL;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BD520A;
+Reference = P12;
+ValeurCmp = DRILL;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC754E;
+Reference = R1;
+ValeurCmp = 10;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC52BB;
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BD5F34;
+Reference = R3;
+ValeurCmp = 2.2M;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BD5F4B;
+Reference = R4;
+ValeurCmp = 2.2M;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BC99E6;
+Reference = SW1;
+ValeurCmp = RST;
+IdModule  = SW_PUSH_SMD_2pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BC99DA;
+Reference = SW2;
+ValeurCmp = BOOT;
+IdModule  = SW_PUSH_SMD_2pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DE142E;
+Reference = SW3;
+ValeurCmp = BOOT;
+IdModule  = SW_PUSH_SMD_2pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BCAFCC;
+Reference = U1;
+ValeurCmp = TPS61291;
+IdModule  = PWSON-N6;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BC9A31;
+Reference = U2;
+ValeurCmp = BME280;
+IdModule  = LGA8_2.5×2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BC9A17;
+Reference = U3;
+ValeurCmp = ESP-07V2;
+IdModule  = ESP-07v2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55DC66BA;
+Reference = U4;
+ValeurCmp = LP2985_D3.3;
+IdModule  = SOT23-5;
+EndCmp
+
+EndListe

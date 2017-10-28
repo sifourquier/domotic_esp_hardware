@@ -1,0 +1,20 @@
+### Module positions - created on sam. 02 janv. 2016 18:51:49 CET ###
+### Printed by Pcbnew version pcbnew (22-Jun-2014 BZR 4027)-stable
+## Unit = inches, Angle = deg.
+## Side : F.Cu
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+C1       22uF             SM0805              1.9685    -0.0906       0.0    F.Cu
+C2       22uF             SM0805              1.8898     0.0276      90.0    F.Cu
+C3       100nF            SM0805              0.3543    -0.4843     270.0    F.Cu
+C4       100nF            SM0805              2.0276     0.1063      90.0    F.Cu
+C5       22uF             SM0805              1.3780     0.1260       0.0    F.Cu
+C6       100nF            SM0805              2.3819     0.0669     270.0    F.Cu
+C7       C                SM0805              0.3622    -0.3465     270.0    F.Cu
+L1       3.3uH            ipc-7351-inducto    1.8031     0.0079      90.0    F.Cu
+R1       10               SM0805              1.8110    -0.1102       0.0    F.Cu
+R2       1k               SM0805              0.3937    -0.0906     270.0    F.Cu
+R3       2.2M             SM0805              2.4606     0.0669      90.0    F.Cu
+R4       2.2M             SM0805              2.3031     0.0669     270.0    F.Cu
+U1       TPS61291         PWSON-N6            1.9921    -0.0118      90.0    F.Cu
+U4       LP2985_D3.3      SOT23-5             1.6339    -0.0906       0.0    F.Cu
+## End
