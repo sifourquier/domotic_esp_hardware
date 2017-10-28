@@ -11,6 +11,7 @@ LIBS:cmos4000
 LIBS:adc-dac
 LIBS:memory
 LIBS:xilinx
+LIBS:special
 LIBS:microcontrollers
 LIBS:dsp
 LIBS:microchip
@@ -43,13 +44,13 @@ LIBS:qt1070
 LIBS:tps61291
 LIBS:mtch6102
 LIBS:esp8266_test_board-cache
-EELAYER 25 0
+EELAYER 27 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "4 nov 2015"
+Date "2 jan 2016"
 Rev ""
 Comp ""
 Comment1 ""
